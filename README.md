@@ -5,7 +5,7 @@ This Repository is to learn machine learning from Zero (0)
 Excited to start the journey of ML 
 (Self Tracking ) 
 ---
-Day-01 [ 03 October 2023]: Basic of python
+Day-01 : Basic of python
 1. Basic of Python 
 * Various Datatypes
 * variables
