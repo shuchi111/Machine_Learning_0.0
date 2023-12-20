@@ -5,7 +5,7 @@ This Repository is to learn machine learning from Zero (0)
 Excited to start the journey of ML 
 (Self Tracking ) 
 ---
-Day-01 : Basic of python
+[x] Basic of Python
 1. Basic of Python 
 * Various Datatypes
 * variables
@@ -15,7 +15,16 @@ Day-01 : Basic of python
 3. Python sets, dictionaries and tuples
 4. Numpy and inbuild function
 * Indexing
-
+---
+  # Added 100-day python challenge 
   ---
-  Day-2
+  **🎯Let's make a streak without any falls 💥**
+  
+  Starting Date - 20 Dec 2023
+  It will be parallel to [ 100 Day DSA Challenge](https://github.com/shuchi111/100-Day-DSA_Challenge)
+  ---
+
+  
+  
+
 
